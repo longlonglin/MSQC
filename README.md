@@ -40,7 +40,7 @@ Codes run on C++11 or later. When we run codes on linux, -O2 is recommended to o
 
 1. create an excutable application by compiling "BB.cpp", for example:` g++ -o test BB.cpp`
 
-2. run the excutable application with 5 parameters, which are input file name, gamma,  mode, rho, theta, for example:` ./test dblp 0.8 4 0.6 3`
+2. run the excutable application with 5 parameters, which are input file name, gamma,  mode, rho, theta, for example:` ./test enron 0.8 4 0.6 3`
 
 	- input file name: the name of the file describing the tempral graph
 
