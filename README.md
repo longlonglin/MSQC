@@ -2,7 +2,7 @@
 
 This repository contains a reference implementation of the algorithms for the paper:
 
-Longlong Lin, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai jin. Mining Stable Quasi-Cliques on Temporal Networks. xx: xx-xx
+Longlong Lin, Pingpeng Yuan, Rong-Hua Li, Jifei Wang, Ling Liu, Hai jin. Mining Stable Quasi-Cliques on Temporal Networks. IEEE Transactions on Systems Man Cybernetics-Systems
 
 ## Environment
 
